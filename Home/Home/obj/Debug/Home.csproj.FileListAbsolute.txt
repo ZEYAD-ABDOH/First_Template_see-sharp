@@ -1,0 +1,17 @@
+D:\Lrean\Por\Home\Home\bin\Debug\Home.exe
+D:\Lrean\Por\Home\Home\bin\Debug\Home.pdb
+D:\Lrean\Por\Home\Home\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Lrean\Por\Home\Home\bin\Debug\Guna.UI.dll
+D:\Lrean\Por\Home\Home\bin\Debug\Guna.UI2.dll
+D:\Lrean\Por\Home\Home\obj\Debug\Home.Form1.resources
+D:\Lrean\Por\Home\Home\obj\Debug\Home.Properties.Resources.resources
+D:\Lrean\Por\Home\Home\obj\Debug\Home.USER.UserControl1.resources
+D:\Lrean\Por\Home\Home\obj\Debug\Home.USER.User_info.resources
+D:\Lrean\Por\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+D:\Lrean\Por\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+D:\Lrean\Por\Home\Home\obj\Debug\Home.csproj.CopyComplete
+D:\Lrean\Por\Home\Home\obj\Debug\Home.exe
+D:\Lrean\Por\Home\Home\obj\Debug\Home.pdb
+D:\Lrean\Por\Home\Home\bin\Debug\Home.exe.config
+D:\Lrean\Por\Home\Home\obj\Debug\Home.Form2.resources
+D:\Lrean\Por\Home\Home\obj\Debug\Home.csprojAssemblyReference.cache
